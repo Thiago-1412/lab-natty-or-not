@@ -4,6 +4,9 @@
 ## 📒 Descrição
 A Era das IAs Generativas
 
+Vivemos um momento revolucionário impulsionado por Inteligências Artificiais generativas — sistemas capazes de criar textos, imagens, músicas, códigos e outros conteúdos de forma autônoma. Essa nova era marca uma transformação profunda na maneira como interagimos com a tecnologia, com aplicações que vão desde assistentes virtuais e design gráfico até produção científica e arte digital. As IAs generativas não apenas executam tarefas, mas colaboram criativamente com humanos, expandindo as fronteiras do que é possível criar. No entanto, junto aos avanços, surgem também debates éticos sobre autoria, privacidade e o impacto no mercado de trabalho. Assim, a era das IAs generativas não é apenas tecnológica, mas também cultural e social — um marco na evolução da inteligência humana e artificial.
+
+
 ## 🤖 Tecnologias Utilizadas
 Somente Chat GPT
 
