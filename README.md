@@ -8,7 +8,7 @@ A Era das IAs Generativas
 Somente Chat GPT
 
 ## 🧐 Processo de Criação
-Comecei a criãçao do projeto pedindo uma resumo breve do assunto para a descriçao e uma imagem para a capa,depois uma base bem completa sobre esse assunto!
+Comecei a criação do projeto pedindo uma resumo breve do assunto para a descriçao e uma imagem para a capa,depois uma base bem completa sobre esse assunto!
 A ideia sobre esse assunto é simples e objetiva,direto ao ponto,para mostrar que a ideia das ias são para nos ajudar,de forma clara e pratica,de facil entendimento tanto para o criador de algum projeto ou ideia,como para o consumidor do conteudo!
  
 ## 🚀 Resultados
